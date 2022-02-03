@@ -1,5 +1,7 @@
 Esta es una prueba modificada
-ya fue modificada por 3era vez
 Es muy interesante aprender a utilizar Git
-Estoy modificando el archivo
-De nuevo modifico el archivo
+3ra modificación
+4ta modificación
+5ta modificación
+6ta modificación
+7ma modificación
