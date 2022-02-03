@@ -1,5 +1,23 @@
 body {
-  color: papayawhip;
+  color: rgb(80, 163, 252);
   text-align: center;
   font-family: "Arial";
+  font-size: 23px;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 70%;
+  height: 60%;
+  padding: 3em;
+  border-radius: 5px;
+  text-align: left;
+  border: 1px solid rgb(4, 245, 221);
+  margin: 0 auto;
+  margin-top: 10%;
+}
+
+#container h1 {
+  font-size: 50px;
 }
